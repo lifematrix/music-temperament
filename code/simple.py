@@ -31,7 +31,7 @@ def search_nearest(x, vals, root_num, delta):
 
 
 def main():
-    search_nearest(2.0, [1.0, 1.5], 12, 0.0000000001)
+    search_nearest(2.0, [1.0, 1.25], 12, 0.0000000001)
 	
 
 
